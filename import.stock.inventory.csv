@@ -1,0 +1,114 @@
+Creation Date,Inventory Reference,Inventories/Location,Inventories/Product,Inventories/ProductName,Inventories/Quantity,Inventories/Product Unit of Measure
+2014-11-01 12:00:22,saldo awal,Kantor Pusat,GM-80,Baju Gamis 80,284,Pcs
+,,Kantor Pusat,GM-90,Baju Gamis 90,141,Pcs
+,,Kantor Pusat,GM-100,Baju Gamis 100,252,Pcs
+,,Kantor Pusat,GM-110,Baju Gamis 110,356,Pcs
+,,Kantor Pusat,GM-120,Baju Gamis 120,109,Pcs
+,,Kantor Pusat,GM-130,Baju Gamis 130,179,Pcs
+,,Kantor Pusat,GM-140,Baju Gamis 140,129,Pcs
+,,Kantor Pusat,GM-150,Baju Gamis 150,175,Pcs
+,,Kantor Pusat,GM-160,Baju Gamis 160,141,Pcs
+,,Kantor Pusat,GM-170,Baju Gamis 170,353,Pcs
+,,Kantor Pusat,GM-180,Baju Gamis 180,129,Pcs
+,,Kantor Pusat,GM-190,Baju Gamis 190,223,Pcs
+,,Kantor Pusat,GM-200,Baju Gamis 200,167,Pcs
+,,Kantor Pusat,GM-210,Baju Gamis 210,152,Pcs
+,,Kantor Pusat,GM-220,Baju Gamis 220,198,Pcs
+,,Kantor Pusat,GM-230,Baju Gamis 230,264,Pcs
+,,Kantor Pusat,KK-80,Baju Koko 80,400,Pcs
+,,Kantor Pusat,KK-90,Baju Koko 90,383,Pcs
+,,Kantor Pusat,KK-100,Baju Koko 100,247,Pcs
+,,Kantor Pusat,KK-110,Baju Koko 110,151,Pcs
+,,Kantor Pusat,KK-120,Baju Koko 120,309,Pcs
+,,Kantor Pusat,KK-130,Baju Koko 130,302,Pcs
+,,Kantor Pusat,KK-140,Baju Koko 140,387,Pcs
+,,Kantor Pusat,KK-150,Baju Koko 150,173,Pcs
+,,Kantor Pusat,KK-160,Baju Koko 160,193,Pcs
+,,Kantor Pusat,KK-170,Baju Koko 170,354,Pcs
+,,Kantor Pusat,KK-180,Baju Koko 180,375,Pcs
+,,Kantor Pusat,KK-190,Baju Koko 190,204,Pcs
+,,Kantor Pusat,KK-200,Baju Koko 200,234,Pcs
+,,Kantor Pusat,KK-210,Baju Koko 210,330,Pcs
+,,Kantor Pusat,KK-220,Baju Koko 220,276,Pcs
+,,Kantor Pusat,KK-230,Baju Koko 230,222,Pcs
+,,Bahan Baku,AC-10,Kancing Jepang 10,281,Pcs
+,,Bahan Baku,AC-20,Kancing Jepang 20,102,Pcs
+,,Bahan Baku,AC-30,Kancing Jepang 30,101,Pcs
+,,Bahan Baku,AC-40,Kancing Jepang 40,174,Pcs
+,,Bahan Baku,AC-50,Kancing Jepang 50,271,Pcs
+,,Bahan Baku,AC-60,Kancing Jepang 60,385,Pcs
+,,Bahan Baku,AC-70,Kancing Jepang 70,197,Pcs
+,,Bahan Baku,AC-80,Kancing Jepang 80,232,Pcs
+,,Bahan Baku,AC-90,Kancing Jepang 90,205,Pcs
+,,Bahan Baku,AC-100,Kancing Jepang 100,258,Pcs
+,,Bahan Baku,AC-110,Resleting 110,298,m
+,,Bahan Baku,AC-120,Resleting 120,266,m
+,,Bahan Baku,AC-130,Resleting 130,314,m
+,,Bahan Baku,AC-140,Resleting 140,204,m
+,,Bahan Baku,AC-150,Resleting 150,256,m
+,,Bahan Baku,AC-160,Resleting 160,320,m
+,,Bahan Baku,AC-170,Resleting 170,105,m
+,,Bahan Baku,AC-180,Resleting 180,299,m
+,,Bahan Baku,AC-190,Resleting 190,240,m
+,,Bahan Baku,BK-10,Kain Type 10,341,kg
+,,Bahan Baku,BK-20,Kain Type 20,138,kg
+,,Bahan Baku,BK-30,Kain Type 30,206,kg
+,,Bahan Baku,BK-40,Kain Type 40,185,kg
+,,Bahan Baku,BK-50,Kain Type 50,369,kg
+,,Bahan Baku,BK-60,Kain Type 60,357,kg
+,,Bahan Baku,BK-70,Kain Type 70,209,kg
+,,Bahan Baku,BK-80,Kain Type 80,379,kg
+,,Bahan Baku,BK-90,Kain Type 90,140,kg
+,,Bahan Baku,BK-100,Kain Type 100,113,kg
+,,Kantor Pusat,SJ-10,Sajadah Type 10,144,Pcs
+,,Kantor Pusat,SJ-20,Sajadah Type 20,394,Pcs
+,,Kantor Pusat,SJ-30,Sajadah Type 30,232,Pcs
+,,Kantor Pusat,SJ-40,Sajadah Type 40,122,Pcs
+,,Kantor Pusat,SJ-50,Sajadah Type 50,374,Pcs
+,,Kantor Pusat,SJ-60,Sajadah Type 60,396,Pcs
+,,Kantor Pusat,SJ-70,Sajadah Type 70,191,Pcs
+,,Kantor Pusat,SJ-80,Sajadah Type 80,123,Pcs
+,,Kantor Pusat,SJ-90,Sajadah Type 90,355,Pcs
+,,Kantor Pusat,SJ-100,Sajadah Type 100,226,Pcs
+,,Toko Pusat,GM-80,Baju Gamis 80,356,Pcs
+,,Toko Pusat,GM-90,Baju Gamis 90,102,Pcs
+,,Toko Pusat,GM-100,Baju Gamis 100,322,Pcs
+,,Toko Pusat,GM-110,Baju Gamis 110,380,Pcs
+,,Toko Pusat,GM-120,Baju Gamis 120,270,Pcs
+,,Toko Pusat,GM-130,Baju Gamis 130,330,Pcs
+,,Toko Pusat,GM-140,Baju Gamis 140,102,Pcs
+,,Toko Pusat,GM-150,Baju Gamis 150,369,Pcs
+,,Toko Pusat,GM-160,Baju Gamis 160,105,Pcs
+,,Toko Pusat,GM-170,Baju Gamis 170,174,Pcs
+,,Toko Pusat,GM-180,Baju Gamis 180,134,Pcs
+,,Toko Pusat,GM-190,Baju Gamis 190,275,Pcs
+,,Toko Pusat,GM-200,Baju Gamis 200,330,Pcs
+,,Toko Pusat,GM-210,Baju Gamis 210,134,Pcs
+,,Toko Pusat,GM-220,Baju Gamis 220,337,Pcs
+,,Toko Pusat,GM-230,Baju Gamis 230,119,Pcs
+,,Toko Pusat,KK-80,Baju Koko 80,267,Pcs
+,,Toko Pusat,KK-90,Baju Koko 90,282,Pcs
+,,Toko Pusat,KK-100,Baju Koko 100,395,Pcs
+,,Toko Pusat,KK-110,Baju Koko 110,305,Pcs
+,,Toko Pusat,KK-120,Baju Koko 120,336,Pcs
+,,Toko Pusat,KK-130,Baju Koko 130,306,Pcs
+,,Toko Pusat,KK-140,Baju Koko 140,263,Pcs
+,,Toko Pusat,KK-150,Baju Koko 150,301,Pcs
+,,Toko Pusat,KK-160,Baju Koko 160,309,Pcs
+,,Toko Pusat,KK-170,Baju Koko 170,176,Pcs
+,,Toko Pusat,KK-180,Baju Koko 180,347,Pcs
+,,Toko Pusat,KK-190,Baju Koko 190,170,Pcs
+,,Toko Pusat,KK-200,Baju Koko 200,317,Pcs
+,,Toko Pusat,KK-210,Baju Koko 210,248,Pcs
+,,Toko Pusat,KK-220,Baju Koko 220,126,Pcs
+,,Toko Pusat,KK-230,Baju Koko 230,270,Pcs
+,,Toko Pusat,SJ-10,Sajadah Type 10,188,Pcs
+,,Toko Pusat,SJ-20,Sajadah Type 20,365,Pcs
+,,Toko Pusat,SJ-30,Sajadah Type 30,357,Pcs
+,,Toko Pusat,SJ-40,Sajadah Type 40,226,Pcs
+,,Toko Pusat,SJ-50,Sajadah Type 50,252,Pcs
+,,Toko Pusat,SJ-60,Sajadah Type 60,369,Pcs
+,,Toko Pusat,SJ-70,Sajadah Type 70,191,Pcs
+,,Toko Pusat,SJ-80,Sajadah Type 80,339,Pcs
+,,Toko Pusat,SJ-90,Sajadah Type 90,277,Pcs
+,,Toko Pusat,SJ-100,Sajadah Type 100,258,Pcs
